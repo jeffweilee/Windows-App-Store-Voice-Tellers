@@ -1,0 +1,73 @@
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.dll
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.pdb
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\AppManifest.xaml
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN_Voice_Search_Debug_AnyCPU.xap
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\App.g.cs
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MainPage.g.cs
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.g.resources
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN_Voice_Search.Resources.AppResources.resources
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.csproj.GenerateResource.Cache
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.dll
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.pdb
+C:\Users\b-petlin\Desktop\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\XapCacheFile.xml
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.dll
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.pdb
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\AppManifest.xaml
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN_Voice_Search_Debug_AnyCPU.xap
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\App.g.cs
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MainPage.g.cs
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.g.resources
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN_Voice_Search.Resources.AppResources.resources
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.csproj.GenerateResource.Cache
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.dll
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.pdb
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\XapCacheFile.xml
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\testPage.g.cs
+C:\Users\b-petlin\Desktop\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\wowPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.dll
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.pdb
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\AppManifest.xaml
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN_Voice_Search_Debug_AnyCPU.xap
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\App.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MainPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\testPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\wowPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.g.resources
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN_Voice_Search.Resources.AppResources.resources
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.csproj.GenerateResource.Cache
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.dll
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.pdb
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\XapCacheFile.xml
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.dll
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.pdb
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\AppManifest.xaml
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\Properties\WMAppManifest.xml
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN_Voice_Search_Debug_AnyCPU.xap
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\App.g.cs
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MainPage.g.cs
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\testPage.g.cs
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\wowPage.g.cs
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.g.resources
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN_Voice_Search.Resources.AppResources.resources
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.csproj.GenerateResource.Cache
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.dll
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.pdb
+C:\Workspace\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\XapCacheFile.xml
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.dll
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN Voice Search.pdb
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\AppManifest.xaml
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\Bin\Debug\MSDN_Voice_Search_Debug_AnyCPU.xap
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\App.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MainPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\testPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\wowPage.g.cs
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.g.resources
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN_Voice_Search.Resources.AppResources.resources
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.csproj.GenerateResource.Cache
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.dll
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\MSDN Voice Search.pdb
+C:\Users\v-lejeff\Documents\Visual Studio 2013\Projects\Personal Assistant_CHT\Personal Assistant_CHT\MSDN Voice Search for Windows Phone 8.1\C#\MSDN Voice Search\obj\Debug\XapCacheFile.xml
